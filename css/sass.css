@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.first {
+  color: plum;
+}
+
+.first h1 {
+  font-size: 25px;
+}
+/*# sourceMappingURL=sass.css.map */
